@@ -388,7 +388,6 @@
 			<expression>Substring('', 0)</expression>
 			<output>''</output>
 		</test>
-		<test name="SubstringAB0To1">
 =======
 		<test name="SubstringAB0To1" version="1.0">
 			<capability code="string-operators" />
